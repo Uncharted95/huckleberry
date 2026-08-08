@@ -9,4 +9,16 @@ body {
   padding: 0;
 }
 
+.max-width-wrapper{
+  max-width: 1280px;
+  border: 1px solid red;
+}
+
+.indented-heading{
+  background-color: #FFBF00;
+  width: fit-content;
+  padding: 26px;
+  border-bottom: 8px solid #CC9900;
+}
+
 /* Add styles here! */
